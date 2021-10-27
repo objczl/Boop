@@ -23,7 +23,7 @@ class DefaultTheme: SyntaxColorTheme {
         )
     }
     
-    var font: Font = NSFont(name: "SFMono-Regular", size: 15) ?? Font(name: "Menlo", size: 15)!
+    var font: Font = NSFont(name: "SFMono-Regular", size: 11) ?? Font(name: "Menlo", size: 11)!
     
     let lineNumbersStyle: LineNumbersStyle?
     
